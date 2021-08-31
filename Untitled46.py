@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+#mini project on data analytics- using fifa data from https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset/version/1?select=players_20.csv
 # In[2]:
 
 
